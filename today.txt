@@ -2,7 +2,7 @@
 
 a
 
-测试 reset head命令
+测试 reset head命令jhgjhg
 
 新建的temp分支，查看log图用，
 
